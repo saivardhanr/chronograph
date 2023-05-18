@@ -25,9 +25,6 @@ Front-End
 
 
 
-/assests/1.png
-/assests/2.png
-/assests/3.png
 
 
 ## ✍ Author
